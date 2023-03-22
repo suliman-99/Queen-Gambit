@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "544705520811",
+        "project_id": "queens-gambit-64772",
+        "storage_bucket": "queens-gambit-64772.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:544705520811:android:58d1b0ac74ffdb7d7243ee",
+            "android_client_info": {
+                "package_name": "com.example.flagfall"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "544705520811-pjmrtp4rd8874f3ics3tl6675vu0gdj4.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyCCLhqd-00RXpRjE-0K6lOqqUXIRZCDMRc"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "544705520811-pjmrtp4rd8874f3ics3tl6675vu0gdj4.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
